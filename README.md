@@ -1,6 +1,6 @@
 webdev-toolkit
 ==============
-
+Forgive me its 3am here and I'm just laying down soemthign to work off of. I'm by know means fully versed in all sections covered so please add your expertise.
 Growing list of recources like short cuts, files setup, code patterns and other day to day tools that I like at my finger tips.
 
 ***
@@ -15,25 +15,39 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 
 ***
 
+sources:
+
+
+
+
 ***
-##1. HTML Structure
-The HTML Structure for each page is as follows:
- 
-* Meta
-* Link to CSS Files
-* Header
-    * Logo
-    * Social Links
-* Navigation
-* Main Content
-    * Content Slider
-    * Articles
-* Sidebar
-    * Search
-    * Post Archives
-    * Mailing List
-* Link to Javascript Files
-* Javascript
+##1. bash
+
+Keys:
+contrl + r = jump to beginning of line
+contrl + e = jump to end of the line
+tab = autocompletes as much as possible.
+
+Commands:
+$cd  = Change directory
+$cd ../ = Parent directory
+$mkdir = Make directory
+$touch = Make file
+$ls = list current 
+
+
+Bash Git
+git status = status of git
+git add * = add file to git
+git commit * -m = commmit files with emssage
+git push = push to active branch
+git pull = pull from active branch
+
+
+Links to good dotfiles:
+https://github.com/paulirish/dotfiles
+http://dotfiles.github.io/
+
 ***
 ##2. CSS Files
 There are 3 CSS files in this theme:
