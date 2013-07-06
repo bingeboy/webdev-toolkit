@@ -63,12 +63,15 @@ Commands:
 Bash SVN
 
 Bash Git
+
+``` 
 git status = status of git
 git add * = add file to git
 git commit * -m = commmit files with emssage
 git push = push to active branch
 git pull = pull from active branch
 
+``` 
 
 Links to good dotfiles:
 https://github.com/paulirish/dotfiles
@@ -80,20 +83,33 @@ http://dotfiles.github.io/
  
  Here are a few vim commands I use.
 
+``` 
 i = insert
 a = insert after
+o = new line after
+O = new line before
 gg = begining of file
 G = end of file
 yy = copy line
 dd = delete line
+d10 = delete 10 lines
 p = paste
 :w = write file
 :q = quit
 :q! = force quite
 / = search
+u = undo
+U = Undo All
+Ctrl + r = Redo
+:e filename
 
+``` 
+
+### Require Extras
+``` 
 :JSHint = hints js
 
+``` 
 
 ***
 
