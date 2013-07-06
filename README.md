@@ -93,6 +93,12 @@ var x = document.getElementById('user-links');
 
 prepend methods
 
+
+//largest value in array
+Array.max = function( array ){
+    return Math.max.apply( Math, array );
+};
+
 URLS:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
@@ -127,6 +133,7 @@ sorting arra large-small
 ***
 
 4. nodejs
+
 
 List out node core exmaple code.
 
