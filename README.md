@@ -56,7 +56,7 @@ http://dotfiles.github.io/
 
  2. VIM
  
- Here a few vim commands I use.
+ Here are a few vim commands I use.
 
 i = insert
 a = insert after
