@@ -31,21 +31,35 @@ sources:
 ##1. bash
 
 Keys:
-contrl + r = jump to beginning of line
+
+jump to beginning of line
+    contrl + r 
+
 contrl + e = jump to end of the line
 tab = autocompletes as much as possible.
 
 Commands:
-$cd  = Change directory
-$cd ../ = Parent directory
-$mkdir = Make directory
-$touch = Make file
-$ls = list current 
-$nslookup = lookup domain
-$cat = logs to screen
-$telnet ip port
-$top = view active processes
-$pbcopy < ~/.ssh/id_rsa.pub = copy path
+    $cd  = Change directory
+    $cd ../ = Parent directory
+    $mkdir = Make directory
+    $touch = Make file
+    $ls = list current 
+    $nslookup = lookup domain
+    $cat = logs to screen
+    $telnet ip port
+    $top = view active processes
+    $pbcopy < ~/.ssh/id_rsa.pub = copy path
+    $rm = remove
+    $rm -rf = recusively remove
+    $curl
+    $ssh
+    $spc
+    $rsync
+
+
+
+
+Bash SVN
 
 Bash Git
 git status = status of git
