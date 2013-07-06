@@ -10,6 +10,13 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 3. javascipt
 4. clientjs
 4. nodejs
+
+@Dshaw
+http://www.youtube.com/watch?v=ET2N1NtRpHE
+
+Max Ogden
+http://youtu.be/VYVXNN7xYw8
+
 5. css
 6. api
 
