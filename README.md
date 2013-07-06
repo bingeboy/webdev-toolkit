@@ -34,6 +34,10 @@ $cd ../ = Parent directory
 $mkdir = Make directory
 $touch = Make file
 $ls = list current 
+$nslookup = lookup domain
+$cat = logs to screen
+$telnet ip port
+$top = view active processes
 
 
 Bash Git
@@ -66,6 +70,9 @@ p = paste
 :q! = force quite
 / = search
 
+:JSHint = hints js
+
+
 ***
 
 3. javascipt 
@@ -89,6 +96,8 @@ http://emberjs.com/
 http://dojotoolkit.org/
 http://jquery.com/
 
+Geolocation:
+
 WebGl:
 http://threejs.org/
 
@@ -97,6 +106,8 @@ http://eightmedia.github.io/hammer.js/
 http://browserify.org/
 
 Merging arrays
+https://gist.github.com/bingeboy/5692603
+
 Merging objects
 mergins array with obj
 merging object with array
@@ -126,11 +137,22 @@ css3please etc
 
 ***
 
-6. api
- 
+6. API
+
+
+
 Maps examples.
 Twilio Examples
 Twitter Examples
+
+
+
+*** 
+
+7. HTML
+
+Clearfix:
+https://gist.github.com/bingeboy/5608727
 
 
 Common Api's i've used some sample code calls.
