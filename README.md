@@ -38,7 +38,7 @@ $nslookup = lookup domain
 $cat = logs to screen
 $telnet ip port
 $top = view active processes
-
+$pbcopy < ~/.ssh/id_rsa.pub = copy path
 
 Bash Git
 git status = status of git
