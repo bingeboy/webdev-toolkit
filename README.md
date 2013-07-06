@@ -70,11 +70,32 @@ p = paste
 
 3. javascipt 
 
+####targeting obj
+
+Quick and basic:
+
 append methods 
+var x = document.getElementById('user-links');
+
 prepend methods
 
+URLS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 
-Cover mutating data
+JS Common frameworks
+http://underscorejs.org/
+http://requirejs.org/
+http://emberjs.com/
+http://dojotoolkit.org/
+http://jquery.com/
+
+WebGl:
+http://threejs.org/
+
+Plugins Tools:
+http://eightmedia.github.io/hammer.js/
+http://browserify.org/
+
 Merging arrays
 Merging objects
 mergins array with obj
@@ -84,9 +105,6 @@ getting length or obj
 
 sorting arra small-large
 sorting arra large-small
-
-
-
 
 ***
 
