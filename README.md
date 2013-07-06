@@ -39,6 +39,7 @@ contrl + e = jump to end of the line
 tab = autocompletes as much as possible.
 
 Commands:
+``` 
     $cd  = Change directory
     $cd ../ = Parent directory
     $mkdir = Make directory
@@ -54,8 +55,8 @@ Commands:
     $curl
     $ssh
     $spc
-    $rsync
-
+	$rsync
+``` 
 
 
 
