@@ -72,6 +72,14 @@ git push = push to active branch
 git pull = pull from active branch
 
 ``` 
+Git alias the are very help!
+
+Add and commit in a single line:
+
+``` 
+git config --global alias.add-co '!git add -A && git commit'
+
+``` 
 
 Links to good dotfiles:
 https://github.com/paulirish/dotfiles
