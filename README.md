@@ -5,11 +5,11 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 
 ***
 ##Table of Contents
-1. bash
-2. <a href="/wiki/VIM">vim</a>
-3. [a link](./VIM)javascipt
-4. clientjs
-4. nodejs
+I. bash
+II. <a href="/wiki/VIM">vim</a>
+III. [a link](./VIM)javascipt
+IV. clientjs
+V. nodejs
 
 @Dshaw
 http://www.youtube.com/watch?v=ET2N1NtRpHE
@@ -17,8 +17,10 @@ http://www.youtube.com/watch?v=ET2N1NtRpHE
 Max Ogden
 http://youtu.be/VYVXNN7xYw8
 
-5. css
-6. api
+VI. css
+VII. api
+VIII.
+
 
 ***
 
@@ -87,7 +89,9 @@ http://dotfiles.github.io/
 
 ***
 
- 2. VIM
+ II. VIM
+ 
+ ![VIM LOGO](http://www.math.cmu.edu/~gautam/share/vim.png)
  
  Here are a few vim commands I use.
 
@@ -112,6 +116,17 @@ Ctrl + r = Redo
 :e filename
 
 ``` 
+
+Discover why VIM is so powerful and widely available. 
+
+### Videos
+Vim Training Class 2 - Basic motions and commands
+<http://www.youtube.com/watch?v=Nim4_f5QUxA&list=PLlqTZ1ulTJiAQYGdZ48eacMs0IWi5ecpn&index=1>
+
+Vim Training Class 4 - Customizing and Extending Vim
+<http://www.youtube.com/watch?v=2pqipq-UEwQ&list=PLlqTZ1ulTJiAQYGdZ48eacMs0IWi5ecpn&index=2>
+
+
 
 ### Require Extras
 ``` 
