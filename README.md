@@ -7,7 +7,7 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 ##Table of Contents
 1. bash
 2. <a href="/wiki/VIM">vim</a>
-3. javascipt
+3. [a link](/wiki/VIM)javascipt
 4. clientjs
 4. nodejs
 
