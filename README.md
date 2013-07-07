@@ -5,11 +5,10 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 
 ***
 ##Table of Contents
-I. bash
-II. <a href="/wiki/VIM">vim</a>
-III. [a link](./VIM)javascipt
-IV. clientjs
-V. nodejs
+bash
+- [vim](#vim)
+- [JavaSCript](#javascript)
+nodejs
 
 @Dshaw
 http://www.youtube.com/watch?v=ET2N1NtRpHE
