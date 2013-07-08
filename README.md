@@ -10,12 +10,6 @@ bash
 - [JavaSCript](#javascript)
 nodejs
 
-@Dshaw
-http://www.youtube.com/watch?v=ET2N1NtRpHE
-
-Max Ogden
-http://youtu.be/VYVXNN7xYw8
-
 VI. css
 VII. api
 VIII.
@@ -96,6 +90,7 @@ http://dotfiles.github.io/
 
 ``` 
 i = insert
+I = I forgot what this one does
 a = insert after
 o = new line after
 O = new line before
@@ -185,16 +180,23 @@ sorting arra large-small
 
 ***
 
-4. nodejs
+##nodejs
 
 
 List out node core exmaple code.
+
+###Videos
+@Dshaw
+[http://www.youtube.com/watch?v=ET2N1NtRpHE](http://www.youtube.com/watch?v=ET2N1NtRpHE)
+
+Max Ogden
+[http://youtu.be/VYVXNN7xYw8](http://youtu.be/VYVXNN7xYw8)
 
 
 
 ***
 
-5. css
+## css
 
 Links to css3 tools.
 css3please etc
@@ -204,22 +206,58 @@ css3please etc
 
 ***
 
-6. API
+## API
 
+[List of APIs](https://gist.github.com/afeld/4952991)
 
+3taps
+App.net
+Aviary
+Bing Maps
+Echo Nest
+Etsy
+Facebook Graph API (JS SDK allows auth via client-side)
+Flickr
+Foursquare
+Freebase
+Gilt
+Github
+Google
+Google Maps
+Google Plus
+Youtube
+Gravatar
+Grooveshark
+HERE (Nokia maps)
+Hunch
+Instagram
+Meetup
+Metropolitan Museum of Art
+OpenTok
+Pearson
+Reddit
+SoundCloud
+Spotify
+Stripe
+Tumblr
+Twilio Client
+Twitter REST API
+Vimeo Simple API
+Wikipedia (via DBpedia or MediaWiki)
+Wolfram Alpha
+See also:
 
-Maps examples.
-Twilio Examples
-Twitter Examples
-
+Apigee App Services
+jsonp.jit.su
+popular APIs on ProgrammableWeb
+Webshell
 
 
 *** 
 
-7. HTML
+## HTML
 
 Clearfix:
 https://gist.github.com/bingeboy/5608727
 
 
-Common Api's i've used some sample code calls.
