@@ -11,11 +11,15 @@ Growing list of recources like short cuts, files setup, code patterns and other 
 4. clientjs
 4. nodejs
 
+##Videos to Checkout
 @Dshaw
 http://www.youtube.com/watch?v=ET2N1NtRpHE
 
 Max Ogden
 http://youtu.be/VYVXNN7xYw8
+
+Substack
+http://www.youtube.com/user/substack
 
 5. css
 6. api
