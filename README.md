@@ -1,7 +1,9 @@
 webdev-toolkit
 ==============
-Forgive me its 3am here and I'm just laying down soemthign to work off of. I'm by know means fully versed in all sections covered so please add your expertise.
-Growing list of recources like short cuts, files setup, code patterns and other day to day tools that I like at my finger tips.
+
+Adding useful links, snippets; basically anything web dev related.
+
+[Mark Down Editor](http://mouapp.com/)
 
 ***
 ##Table of Contents
@@ -181,6 +183,13 @@ sorting arra large-small
 ***
 
 ##nodejs
+
+https://ci.testling.com/
+
+request
+engine.io
+twit
+
 
 
 List out node core exmaple code.
