@@ -7,21 +7,26 @@ Adding useful links, snippets; basically anything web dev related.
 
 ***
 ##Table of Contents
-bash
-- [vim](#vim)
-- [JavaSCript](#javascript)
-nodejs
 
+I bash
+II [vim](#vim)
+III [JavaSCript](#javascript)
+IV [nodejs](#nodejs)
+V
 VI. css
 VII. api
 VIII.
+
+
+Tools:
+(#javascript)
 
 
 ***
 
 sources:
 
-
+[Screen Sizes](http://screensiz.es/phone)
 
 
 ***
@@ -219,43 +224,8 @@ css3please etc
 
 [List of APIs](https://gist.github.com/afeld/4952991)
 
-3taps
-App.net
-Aviary
-Bing Maps
-Echo Nest
-Etsy
-Facebook Graph API (JS SDK allows auth via client-side)
-Flickr
-Foursquare
-Freebase
-Gilt
-Github
-Google
-Google Maps
-Google Plus
-Youtube
-Gravatar
-Grooveshark
-HERE (Nokia maps)
-Hunch
-Instagram
-Meetup
-Metropolitan Museum of Art
-OpenTok
-Pearson
-Reddit
-SoundCloud
-Spotify
-Stripe
-Tumblr
-Twilio Client
-Twitter REST API
-Vimeo Simple API
-Wikipedia (via DBpedia or MediaWiki)
-Wolfram Alpha
 See also:
-
+Dropbox
 Apigee App Services
 jsonp.jit.su
 popular APIs on ProgrammableWeb
