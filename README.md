@@ -1,34 +1,46 @@
 webdev-toolkit
 ==============
-Forgive me its 3am here and I'm just laying down soemthign to work off of. I'm by know means fully versed in all sections covered so please add your expertise.
-Growing list of recources like short cuts, files setup, code patterns and other day to day tools that I like at my finger tips.
+
+Adding useful links, snippets; basically anything web dev related.
+
+[Mark Down Editor](http://mouapp.com/)
 
 ***
 ##Table of Contents
-1. bash
-2. vim
-3. javascipt
-4. clientjs
-4. nodejs
 
+<<<<<<< HEAD
 ##Videos to Checkout
 @Dshaw
 http://www.youtube.com/watch?v=ET2N1NtRpHE
+=======
+I bash
+II [vim](#vim)
+III [JavaSCript](#javascript)
+IV [nodejs](#nodejs)
+V
+VI. css
+VII. api
+VIII.
+>>>>>>> e358b34ae9695691ffa521521636f0c45e6b0a1f
 
-Max Ogden
-http://youtu.be/VYVXNN7xYw8
 
+<<<<<<< HEAD
 Substack
 http://www.youtube.com/user/substack
 
 5. css
 6. api
+=======
+Tools:
+(#javascript)
+
+>>>>>>> e358b34ae9695691ffa521521636f0c45e6b0a1f
 
 ***
 
 sources:
 
-
+[Screen Sizes](http://screensiz.es/phone)
 
 
 ***
@@ -91,12 +103,15 @@ http://dotfiles.github.io/
 
 ***
 
- 2. VIM
+ II. VIM
+ 
+ ![VIM LOGO](http://www.math.cmu.edu/~gautam/share/vim.png)
  
  Here are a few vim commands I use.
 
 ``` 
 i = insert
+I = I forgot what this one does
 a = insert after
 o = new line after
 O = new line before
@@ -116,6 +131,17 @@ Ctrl + r = Redo
 :e filename
 
 ``` 
+
+Discover why VIM is so powerful and widely available. 
+
+### Videos
+Vim Training Class 2 - Basic motions and commands
+<http://www.youtube.com/watch?v=Nim4_f5QUxA&list=PLlqTZ1ulTJiAQYGdZ48eacMs0IWi5ecpn&index=1>
+
+Vim Training Class 4 - Customizing and Extending Vim
+<http://www.youtube.com/watch?v=2pqipq-UEwQ&list=PLlqTZ1ulTJiAQYGdZ48eacMs0IWi5ecpn&index=2>
+
+
 
 ### Require Extras
 ``` 
@@ -175,16 +201,30 @@ sorting arra large-small
 
 ***
 
-4. nodejs
+##nodejs
+
+https://ci.testling.com/
+
+request
+engine.io
+twit
+
 
 
 List out node core exmaple code.
+
+###Videos
+@Dshaw
+[http://www.youtube.com/watch?v=ET2N1NtRpHE](http://www.youtube.com/watch?v=ET2N1NtRpHE)
+
+Max Ogden
+[http://youtu.be/VYVXNN7xYw8](http://youtu.be/VYVXNN7xYw8)
 
 
 
 ***
 
-5. css
+## css
 
 Links to css3 tools.
 css3please etc
@@ -194,22 +234,23 @@ css3please etc
 
 ***
 
-6. API
+## API
 
+[List of APIs](https://gist.github.com/afeld/4952991)
 
-
-Maps examples.
-Twilio Examples
-Twitter Examples
-
+See also:
+Dropbox
+Apigee App Services
+jsonp.jit.su
+popular APIs on ProgrammableWeb
+Webshell
 
 
 *** 
 
-7. HTML
+## HTML
 
 Clearfix:
 https://gist.github.com/bingeboy/5608727
 
 
-Common Api's i've used some sample code calls.
