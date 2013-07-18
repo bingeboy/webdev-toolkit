@@ -72,6 +72,7 @@ Commands:
     $ssh
     $spc
 	$rsync
+	$ cat [filename] | pbcopy <~ Great clipboad util.
 ``` 
 
 
@@ -86,6 +87,7 @@ git add * = add file to git
 git commit * -m = commmit files with emssage
 git push = push to active branch
 git pull = pull from active branch
+git stash = stash your work so you can merge.
 
 ``` 
 Git alias the are very help!
@@ -129,6 +131,7 @@ u = undo
 U = Undo All
 Ctrl + r = Redo
 :e filename
+esc / v = visualmode
 
 ``` 
 
