@@ -239,6 +239,7 @@ css3please etc
 [List of APIs](https://gist.github.com/afeld/4952991)
 
 See also:
+[NYC DATA](https://nycopendata.socrata.com/)
 Dropbox
 Apigee App Services
 jsonp.jit.su
